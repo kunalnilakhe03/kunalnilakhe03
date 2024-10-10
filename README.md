@@ -33,7 +33,7 @@
     </td>
    <td align="center">
   <a href="https://github.com/kunalnilakhe03" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fkunalnilakhe03&subtitle=kunalnilakhe03&size=square" alt="kunalnialkhe03">
   </a>
 </td>
 
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAFIKSHA&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+  <img src="https://komarev.com/ghpvc/?username=kunalnilakhe03&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
 </p>
 
 
@@ -97,7 +97,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
-    </tr>
+    </tr>Sign in to GitHub
+GitHub
+https://github.com › login
     <tr>
       <td>
         <a href="https://github.com/RAFIKSHA/moviedjangoai">
